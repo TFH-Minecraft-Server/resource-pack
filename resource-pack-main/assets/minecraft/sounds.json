@@ -1,0 +1,11 @@
+{
+  "tfh.click2": {"sounds": ["tfh/click2"] },
+  "tfh.hide": {"sounds": ["tfh/hide"] },
+  "tfh.info": {"sounds": ["tfh/info"] },
+  "tfh.caught": {"sounds": ["tfh/caught"] },
+  "tfh.caught2": {"sounds": ["tfh/caught2"] },
+  "tfh.seeker": {"sounds": ["tfh/seeker"] },
+  "tfh.alert": {"sounds": ["tfh/alert"] },
+  "tfh.click": {"sounds": ["tfh/click"] }
+}
+
