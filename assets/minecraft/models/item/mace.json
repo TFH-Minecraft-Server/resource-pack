@@ -176,7 +176,7 @@
 		"1": "item/mace_rod",
 		"particle": "item/mace"
 	},
-	 "overrides": [
-  {"predicate": {"custom_model_data":1}, "model": "block/custom/TridentFence"}
- ]
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "block/custom/TridentFence"}
+   ]
 }
