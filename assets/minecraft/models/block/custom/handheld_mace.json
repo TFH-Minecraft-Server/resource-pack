@@ -1,5 +1,12 @@
 {
-  "elements": [
+	"credit": "Made by HiScythe",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/mace_head",
+		"1": "item/mace_rod",
+		"particle": "item/mace"
+	},
+	"elements": [
 		{
 			"from": [2, 2, 7.5],
 			"to": [5, 5, 8.5],
@@ -170,13 +177,5 @@
 			"rotation": [0, 0, 45],
 			"translation": [2, -2, 0]
 		}
-	},
-	"textures": {
-		"0": "item/mace_head",
-		"1": "item/mace_rod",
-		"particle": "item/mace"
-	},
-  "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "block/custom/TridentFence", "parent": "minecraft:item/handheld"}
-   ]
+	}
 }
