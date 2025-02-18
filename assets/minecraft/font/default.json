@@ -1,0 +1,24 @@
+{
+    "providers": [
+        {"file":"font/ui/admin2.png",
+        "type":"bitmap",
+        "chars":["檡"],
+        "ascent":7,
+        "height":7},
+        {"file":"font/ui/friend.png",
+        "type":"bitmap",
+        "chars":["义"],
+        "ascent":7,
+        "height":7},
+        {"file":"font/ui/transfemmctransparent.png",
+        "type":"bitmap",
+        "chars":["上"],
+        "ascent":64,
+        "height":64},
+        {"file":"font/ui/smileemoji.png",
+        "type":"bitmap",
+        "chars":["的"],
+        "ascent":16,
+        "height":32}
+]
+}
