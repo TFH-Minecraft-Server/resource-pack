@@ -18,7 +18,7 @@
         {"file":"font/ui/smileemoji.png",
         "type":"bitmap",
         "chars":["的"],
-        "ascent":16,
-        "height":32}
+        "ascent":7,
+        "height":7}
 ]
 }
