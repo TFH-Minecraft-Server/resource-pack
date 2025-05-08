@@ -16,7 +16,8 @@
   {"predicate": {"custom_model_data":9}, "model": "block/custom/latte"},
   {"predicate": {"custom_model_data":10}, "model": "block/custom/espresso"},
   {"predicate": {"custom_model_data":11}, "model": "block/custom/tea"},
-  {"predicate": {"custom_model_data":12}, "model": "block/custom/spawn"}
+  {"predicate": {"custom_model_data":12}, "model": "block/custom/spawn"},
+  {"predicate": {"custom_model_data":13}, "model": "block/custom/allayhat"}
 
  ]
 }
