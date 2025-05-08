@@ -6,6 +6,7 @@
    
    "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "block/custom/bav"},
-    {"predicate": {"custom_model_data":2}, "model": "block/custom/end"}
+    {"predicate": {"custom_model_data":2}, "model": "block/custom/end"},
+    {"predicate": {"custom_model_data":3}, "model": "block/custom/stardew"}
    ]
   }
