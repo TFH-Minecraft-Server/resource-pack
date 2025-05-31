@@ -1,23 +1,103 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/paper"
-  },
- 
- "overrides": [
-  {"predicate": {"custom_model_data":1}, "model": "block/custom/map"},
-  {"predicate": {"custom_model_data":2}, "model": "block/custom/smmb1"},
-  {"predicate": {"custom_model_data":3}, "model": "block/custom/smm1f"},
-  {"predicate": {"custom_model_data":4}, "model": "block/custom/smm2f"},
-  {"predicate": {"custom_model_data":5}, "model": "block/custom/wuhu"},
-  {"predicate": {"custom_model_data":6}, "model": "block/custom/1k"},
-  {"predicate": {"custom_model_data":7}, "model": "block/custom/santahat"},
-  {"predicate": {"custom_model_data":8}, "model": "block/custom/cappuccino"},
-  {"predicate": {"custom_model_data":9}, "model": "block/custom/latte"},
-  {"predicate": {"custom_model_data":10}, "model": "block/custom/espresso"},
-  {"predicate": {"custom_model_data":11}, "model": "block/custom/tea"},
-  {"predicate": {"custom_model_data":12}, "model": "block/custom/spawn"},
-  {"predicate": {"custom_model_data":13}, "model": "block/custom/allayhat"}
-
- ]
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/paper"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/map"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/smmb1"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/smm1f"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/smm2f"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/wuhu"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/1k"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/santahat"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/cappuccino"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/latte"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/espresso"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/tea"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/spawn"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/allayhat"
+                }
+            }
+        ]
+    }
 }
