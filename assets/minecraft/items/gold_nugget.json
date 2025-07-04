@@ -13,6 +13,13 @@
                     "type": "model",
                     "model": "block/custom/allaycoin"
                 }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/token"
+                }
             }
         ]
     }
