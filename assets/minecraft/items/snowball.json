@@ -13,6 +13,55 @@
                     "type": "model",
                     "model": "block/custom/brickthrow"
                 }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/golfballs/black_golfball"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/golfballs/blue_golfball"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/golfballs/green_golfball"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/golfballs/pink_golfball"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/golfballs/red_golfball"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/golfballs/white_golfball"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/golfballs/yellow_golfball"
+                }
             }
         ]
     }
