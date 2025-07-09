@@ -18,49 +18,49 @@
                 "threshold": 2,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/golfballs/black_golfball"
+                    "model": "block/custom/black_golfball"
                 }
             },
             {
                 "threshold": 3,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/golfballs/blue_golfball"
+                    "model": "block/custom/blue_golfball"
                 }
             },
             {
                 "threshold": 4,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/golfballs/green_golfball"
+                    "model": "block/custom/green_golfball"
                 }
             },
             {
                 "threshold": 5,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/golfballs/pink_golfball"
+                    "model": "block/custom/pink_golfball"
                 }
             },
             {
                 "threshold": 6,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/golfballs/red_golfball"
+                    "model": "block/custom/red_golfball"
                 }
             },
             {
                 "threshold": 7,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/golfballs/white_golfball"
+                    "model": "block/custom/white_golfball"
                 }
             },
             {
                 "threshold": 8,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/golfballs/yellow_golfball"
+                    "model": "block/custom/yellow_golfball"
                 }
             }
         ]
