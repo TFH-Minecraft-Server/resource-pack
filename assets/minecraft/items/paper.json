@@ -97,6 +97,55 @@
                     "type": "model",
                     "model": "block/custom/allayhat"
                 }
+            },
+                        {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/black_golfball"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/blue_golfball"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/green_golfball"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/pink_golfball"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/red_golfball"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/white_golfball"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/yellow_golfball"
+                }
             }
         ]
     }
