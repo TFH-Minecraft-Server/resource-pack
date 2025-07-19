@@ -27,12 +27,12 @@
                     "type": "model",
                     "model": "block/custom/bannerpart"
                 }
-            }, 
+            },
             {
                 "threshold": 4,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/duck"
+                    "model": "block/custom/pink_balloon"
                 }
             }
         ]
