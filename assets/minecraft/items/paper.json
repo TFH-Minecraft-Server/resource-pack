@@ -195,6 +195,13 @@
                     "type": "model",
                     "model": "block/custom/catears_white"
                 }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/black_cat"
+                }
             }
         ]
     }
