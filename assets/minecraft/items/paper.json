@@ -154,11 +154,46 @@
                     "model": "block/custom/hatparty"
                 }
             },
-                        {
+            {
                 "threshold": 22,
                 "model": {
                     "type": "model",
                     "model": "block/custom/rabbit_ears_item"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/catears_black"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/catears_cream"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/catears_orange"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/catears_pink"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/catears_white"
                 }
             }
         ]
