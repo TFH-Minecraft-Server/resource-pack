@@ -153,6 +153,13 @@
                     "type": "model",
                     "model": "block/custom/hatparty"
                 }
+            },
+                        {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/rabbit_ears_item"
+                }
             }
         ]
     }
