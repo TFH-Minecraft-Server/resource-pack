@@ -146,6 +146,13 @@
                     "type": "model",
                     "model": "block/custom/yellow_golfball"
                 }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/hatparty"
+                }
             }
         ]
     }
