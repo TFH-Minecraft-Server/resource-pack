@@ -202,6 +202,13 @@
                     "type": "model",
                     "model": "block/custom/black_cat"
                 }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/barrel_pal"
+                }
             }
         ]
     }
