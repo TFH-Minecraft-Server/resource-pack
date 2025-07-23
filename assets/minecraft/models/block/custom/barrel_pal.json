@@ -25,11 +25,11 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [89, 0, 0],
-			"translation": [-11, -2.35, 18]
+			"translation": [0.75, -2.35, 18]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [89, 0, 0],
-			"translation": [-11.75, -2.35, 18]
+			"translation": [0, -2.35, 18]
 		},
 		"firstperson_righthand": {
 			"translation": [0, -0.75, 0]
