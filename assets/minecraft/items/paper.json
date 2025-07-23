@@ -209,6 +209,13 @@
                     "type": "model",
                     "model": "block/custom/barrel_pal"
                 }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/space_helmet"
+                }
             }
         ]
     }
