@@ -216,6 +216,20 @@
                     "type": "model",
                     "model": "block/custom/space_helmet"
                 }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/balloon_bunch"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/carnivaltable"
+                }
             }
         ]
     }
