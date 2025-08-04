@@ -237,6 +237,13 @@
                     "type": "model",
                     "model": "block/custom/timertravellershat"
                 }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/pillagerhead"
+                }
             }
         ]
     }
