@@ -230,6 +230,13 @@
                     "type": "model",
                     "model": "block/custom/carnivaltable"
                 }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/timertravellershat"
+                }
             }
         ]
     }
