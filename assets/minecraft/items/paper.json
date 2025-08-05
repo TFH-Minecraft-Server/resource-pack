@@ -244,6 +244,13 @@
                     "type": "model",
                     "model": "block/custom/pillagerhead"
                 }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/villagernose"
+                }
             }
         ]
     }
