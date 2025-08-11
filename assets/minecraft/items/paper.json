@@ -265,6 +265,13 @@
                     "type": "model",
                     "model": "block/custom/dogears"
                 }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/dogtail"
+                }
             }
         ]
     }
