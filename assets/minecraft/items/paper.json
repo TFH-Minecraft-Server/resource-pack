@@ -251,6 +251,20 @@
                     "type": "model",
                     "model": "block/custom/villagernose"
                 }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/imfries"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "block/customdogears"
+                }
             }
         ]
     }
