@@ -263,7 +263,7 @@
                 "threshold": 37,
                 "model": {
                     "type": "model",
-                    "model": "block/customdogears"
+                    "model": "block/custom/dogears"
                 }
             }
         ]
