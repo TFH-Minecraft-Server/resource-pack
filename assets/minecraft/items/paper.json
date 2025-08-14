@@ -272,6 +272,13 @@
                     "type": "model",
                     "model": "block/custom/dogtail"
                 }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/mayor_ballot"
+                }
             }
         ]
     }
