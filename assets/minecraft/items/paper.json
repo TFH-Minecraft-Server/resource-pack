@@ -286,6 +286,13 @@
                     "type": "model",
                     "model": "block/custom/tokencrown"
                 }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/falltoken"
+                }
             }
         ]
     }
