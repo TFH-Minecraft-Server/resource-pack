@@ -293,6 +293,13 @@
                     "type": "model",
                     "model": "block/custom/falltoken"
                 }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/falltoken"
+                }
             }
         ]
     }
