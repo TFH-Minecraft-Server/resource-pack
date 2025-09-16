@@ -298,7 +298,7 @@
                 "threshold": 42,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/falltoken"
+                    "model": "block/custom/pumpkinblowup"
                 }
             }
         ]
