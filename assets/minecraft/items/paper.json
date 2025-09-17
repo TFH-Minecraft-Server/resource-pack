@@ -328,6 +328,13 @@
                     "type": "model",
                     "model": "block/custom/catbasket"
                 }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/strawhat"
+                }
             }
         ]
     }
