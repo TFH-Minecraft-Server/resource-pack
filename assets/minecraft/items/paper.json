@@ -307,6 +307,27 @@
                     "type": "model",
                     "model": "block/custom/ghost"
                 }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/turkeyhat"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/frankenstein"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/catbasket"
+                }
             }
         ]
     }
