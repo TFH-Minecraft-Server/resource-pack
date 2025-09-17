@@ -300,6 +300,13 @@
                     "type": "model",
                     "model": "block/custom/pumpkinblowup"
                 }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/ghost"
+                }
             }
         ]
     }
