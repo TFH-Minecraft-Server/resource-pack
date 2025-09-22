@@ -1,0 +1,73 @@
+{
+  "parent": "pumpkin_carving:item/pumpkin",
+  "elements": [
+    {
+      "from": [
+        5,
+        15,
+        11
+      ],
+      "to": [
+        6,
+        16,
+        12
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            0,
+            11,
+            1
+          ],
+          "texture": "#4"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            5,
+            1
+          ],
+          "texture": "#4"
+        },
+        "south": {
+          "uv": [
+            5,
+            0,
+            6,
+            1
+          ],
+          "texture": "#4"
+        },
+        "west": {
+          "uv": [
+            11,
+            0,
+            12,
+            1
+          ],
+          "texture": "#4"
+        },
+        "up": {
+          "uv": [
+            5,
+            11,
+            6,
+            12
+          ],
+          "texture": "#1"
+        },
+        "down": {
+          "uv": [
+            5,
+            4,
+            6,
+            5
+          ],
+          "texture": "#4"
+        }
+      }
+    }
+  ]
+}

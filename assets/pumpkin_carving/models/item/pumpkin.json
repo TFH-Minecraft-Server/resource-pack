@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "0": "minecraft:block/pumpkin_side",
+    "1": "minecraft:block/pumpkin_top",
+    "2": "pumpkin_carving:block/pumpkin_inside_side",
+    "3": "pumpkin_carving:block/pumpkin_inside_top",
+    "4": "pumpkin_carving:block/pumpkin_slice"
+  },
+  "display": {
+    "head": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1.05,
+        1.05,
+        1.05
+      ]
+    }
+  }
+}
