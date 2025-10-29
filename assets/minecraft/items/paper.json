@@ -335,6 +335,34 @@
                     "type": "model",
                     "model": "block/custom/strawhat"
                 }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/engineermustache"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/demonhorns"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/idoldrills"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/idoltwintails"
+                }
             }
         ]
     }
