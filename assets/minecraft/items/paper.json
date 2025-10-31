@@ -363,6 +363,13 @@
                     "type": "model",
                     "model": "block/custom/idoltwintails"
                 }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "model",
+                    "model": "block/custom/umbrella"
+                }
             }
         ]
     }
