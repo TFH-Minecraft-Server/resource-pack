@@ -368,7 +368,7 @@
                 "threshold": 52,
                 "model": {
                     "type": "model",
-                    "model": "block/custom/umbrella"
+                    "model": "block/custom/umbrellan"
                 }
             }
         ]
