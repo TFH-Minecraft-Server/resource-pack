@@ -411,6 +411,7 @@
                 "model": {
                     "type": "model",
                     "model": "block/custom/cardinel"
+                    
                 }
             }
         ]
